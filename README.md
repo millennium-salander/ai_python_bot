@@ -72,7 +72,7 @@ P.s. do not forget to turn off the bot. To do that go back to the console and pr
 After creating our empty agent, we have a bunch of other tabs. We need to click on Prebuilt Agents (these are already specially trained agents that have many commands) and select Small Talk from the entire list. </p>
 <img src="https://raw.githubusercontent.com/millennium-salander/ai_python_bot/master/img/bot_5.png" width="650"/>
 
-<p>Click on <strong>Import</strong>. Then, wthout changinf anything click on <strong>Ok</strong>. The agent was imported and now we can configure it. To do this, in the upper left corner click on the gear near the Small-Talk and get to the settings page. Now we can change the agent's name as desired (I leave it as it was). We change the time zone and in the Languages tab we make sure that the English language has been set.</p>
+<p>Click on <strong>Import</strong>. Then, without changing anything click on <strong>Ok</strong>. The agent was imported and now we can configure it. To do this, in the upper left corner click on the gear near the Small-Talk and get to the settings page. Now we can change the agent's name as desired (I leave it as it was). We change the time zone and in the Languages tab we make sure that the English language has been set.</p>
 <img src="https://raw.githubusercontent.com/millennium-salander/ai_python_bot/master/img/bot_6.png" width="650"/>
 
 <p>Now we go back in <strong>General</strong> and copy the <strong>Client acess token</strong></p>
