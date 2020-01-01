@@ -136,5 +136,5 @@ def textMessage(bot, update):
 <h3>Step 5.</h3>
 <p>It took us 10 minutes to create our first AI bot. Of course it still need some massive training. You can do it in the section <strong>Training</strong> on Dialogflow.</p>
 
-<p>Now if you want to host youre bot you can use the <a href "https://github.com/python-telegram-bot/python-telegram-bot/wiki/Where-to-host-Telegram-Bots">Where to host Telegram Bots</a> guide.</p>
+<p>Now if you want to host youre bot you can use the <a href "https://github.com/python-telegram-bot/python-telegram-bot/wiki/Where-to-host-Telegram-Bots ">Where to host Telegram Bots</a> guide.</p>
 
